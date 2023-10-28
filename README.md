@@ -1,5 +1,6 @@
 # English-to-Hinglish
-Effortlessly translate English to natural-sounding Hinglish for better understanding by non-native Hindi speakers. Eliminate language barriers and enhance inclusivity in communication.
+Effortlessly translate English to natural-sounding Hinglish for better understanding by non-native Hindi speakers. Eliminate language barriers and enhance inclusivity in communication. 
+- Translation model used for this repo is [facebook/nllb-200-3.3B](https://huggingface.co/facebook/nllb-200-3.3B) 
 
 ##  **How to run**
 
