@@ -31,3 +31,6 @@ Just follow the below mentioned kaggle notebook link and you are good to go
 - **Input:** I was waiting for my bag.
 - **Output:** मैं अपने bag की प्रतीक्षा कर रहा था।
 
+## Workflow
+![Workflow](https://github.com/zeel-04/English-to-Hinglish/blob/main/workflow.png)
+
